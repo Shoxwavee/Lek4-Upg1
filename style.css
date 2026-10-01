@@ -1,0 +1,30 @@
+body{
+    background-image: url(./img/showcase.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    color: blue;
+    font-family: Roboto Mono;
+}
+.rubrik{
+    padding-bottom: 20px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.artikel{
+    background-color: lightgray;
+    padding-bottom: 20px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.Bild{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
